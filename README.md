@@ -1,4 +1,4 @@
-# DIY_Lab_Instrument
+# DIY Lab Instrument
 This repo contains some arduino codes I wrote and also corresponding 3D design(stl file) and circuit for some of my designs of the lab instruments that work. 
 The UV meter is used to roughly measure the UV radiation with range depends on the type of the sensor. currently it can only show the result on the mini OLED display.
 The micromanipulator's code is for my design of a real single cell micromanipulator, it costs no more than $200 but it actually CAN handle single cell. I will post 
