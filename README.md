@@ -5,4 +5,4 @@ The UV meter is used to roughly measure the UV radiation with range depends on t
 
 The micromanipulator is a home-made robotic arm that can handle single cell under the microscope, it costs no more than $150 but it actually CAN handle single suspension cell. I will post my thoughts and why it should work in principle and the footage recording how it works, also the problem with the present design. I think it will be fairly useful if you have some thoughts on single cell minipulation but on a tight budget.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="9b1Pkgj" data-context="false" ><a href="//imgur.com/9b1Pkgj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![render_graph](<blockquote class="imgur-embed-pub" lang="en" data-id="9b1Pkgj" data-context="false" ><a href="//imgur.com/9b1Pkgj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
